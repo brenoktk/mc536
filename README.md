@@ -1,2 +1,2 @@
 # mc536
-Repositório
+Repositório para enviar os labs e tal
