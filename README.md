@@ -1,2 +1,3 @@
-# mc536
-Repositório para enviar os labs e tal
+# Aluno
+* Breno Nunes Tavares
+* RA 232238
