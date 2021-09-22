@@ -3,4 +3,4 @@
 * RA 232238
 
 ## Tarefa sobre Consultas SQL no NHANES
-[Notebook](lab04-sql-advanced.ipynb)
+[Notebook](notebook/lab04-sql-advanced.ipynb)
