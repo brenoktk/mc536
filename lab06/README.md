@@ -17,8 +17,8 @@ Estrutura de pastas:
 |------------|----------------------------------------|
 | referência | `Rocha, E., Maio, H., Menasché, D. S., & Miceli, C. (2021). Extracting and Composing a Dataset of Competitive Counter-Strike Global Offensive Matches. Dataset Showcase Workshop, SBBD 2021. https://sites.google.com/view/sbbd-dsw/artigos?authuser=0` |
 | link       | `https://drive.google.com/file/d/106Ps__OM8ryapvP958FAIyhEWkzf_XfS/view` |
-| dataset | `<https://labnet.nce.ufrj.br/files/CSGO_Dataset/>` |
-| formato | `<.parquet>` |
+| dataset | `https://labnet.nce.ufrj.br/files/CSGO_Dataset/` |
+| formato | `.parquet` |
 
 ## Resumo
 
