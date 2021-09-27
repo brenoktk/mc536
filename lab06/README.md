@@ -1,13 +1,3 @@
-# Modelo para Apresentação do Lab06 - Artigo de Dataset Público
-
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa (se houver)
-~~~
-
 # Aluno
 * `RA 232238`: `Breno Nunes Tavares`
 
@@ -21,8 +11,6 @@ Estrutura de pastas:
 | formato | `.parquet` |
 
 ## Resumo
-
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
 
 O artigo escolhido consiste em uma explicação da extração e composição de um dataset que visa tornar possível uma análise mais aprofundada sobre o cenário competitivo do jogo Counter Strike Global Offensive.
 
