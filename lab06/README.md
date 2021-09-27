@@ -21,7 +21,10 @@ Primeiramente, é fornecido o que motivou a escrita do artigo, além de uma brev
 - player_death: informações sobre todas as mortes que ocorreram no jogo, como o tick/round, quem morreu, quem matou, se foi tiro na cabeça, entre outros;
 
 - tick: tabela que mostra informações sobre todos os jogadores a cada tick da partida, incluindo fatores como sua velocidade, coordenadas e vida;
-weapon_fire: informações sobre todas as armas que atiraram no jogo, contendo o atirador, o round, tick e seu tipo.
+
+- utility_lifecycle: arquivo contendo informações das granadas utilitárias lançadas durante a partida, tais como o tipo, o tick, round, jogador que lançou e coordenadas;
+
+- weapon_fire: informações sobre todas as armas que atiraram no jogo, contendo o atirador, o round, tick e seu tipo.
 
 Um exemplo da utilização das informações acima são mapas de calor das regiões onde as granadas são utilizadas em cada mapa, como é exemplificado com as "flashbangs" no mapa “Inferno”, na imagem a seguir:
 
